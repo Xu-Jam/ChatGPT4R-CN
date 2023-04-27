@@ -9,7 +9,7 @@
 ## 安装
 
 ```{R}
-devtools::install_github('yimingsun12138/ChatGPT4R-CN')
+devtools::install_github('Xu-Jam/ChatGPT4R-CN')
 ```
 
 ## 链接
