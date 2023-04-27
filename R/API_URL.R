@@ -5,18 +5,18 @@
 #' @description OpenAI all models URL.
 #' 
 #' @export
-URL_models <- 'https://openai.mrdoge.cool/v1/models'
+URL_models <- 'https://api.openai-sb.com/v1/models'
 
 #' OpenAI completion API URL
 #' 
 #' @description OpenAI completion API URL.
 #' 
 #' @export
-URL_completion <- 'https://openai.mrdoge.cool/v1/completions'
+URL_completion <- 'https://api.openai-sb.com/v1/chat/completions'
 
 #' OpenAI chat API URL
 #' 
 #' @description OpenAI chat API URL.
 #' 
 #' @export
-URL_chat <- 'https://openai.mrdoge.cool/v1/chat/completions'
+URL_chat <- 'https://api.openai-sb.com/v1/chat/completions'
